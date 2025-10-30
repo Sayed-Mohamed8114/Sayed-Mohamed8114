@@ -5,10 +5,6 @@
 </p>
 
 ---
- - 💡 I’m currently working with **.NET** , **Django**  ,**Flask**
-- 📈 Passionate about **Data Analysis**, **Backend Development**, **Frontend Development**, and **Problem Solving**  
----
-
 ### 📊 GitHub Stats  
 <div align="center">
 
