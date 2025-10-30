@@ -3,8 +3,7 @@
 <p align="center">
   <b>💻 Web Developer | 📊 Data Analyst | 🎓 Computer Science Student</b>
 </p>
----
-### 
+ 
 <div align="center">
   <table>
     <tr>
@@ -17,9 +16,7 @@
     </tr>
   </table>
 </div>
----
 
-###  
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sayed-Mohamed8114&theme=tokyonight&no-frame=true&margin-w=5" alt="GitHub Trophies" />
 </div>
