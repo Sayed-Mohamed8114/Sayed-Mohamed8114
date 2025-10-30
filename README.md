@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sayed Mohamed 👋</h1>
 
-<!--
-**Sayed-Mohamed8114/Sayed-Mohamed8114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>💻 Web Developer | 📊 Data Analyst | 🎓 Computer Science Student</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 🌍 Based in Egypt  
+- 💡 I’m currently working with **.NET** and **Django**  
+- 📈 Passionate about **Data Analysis**, **Backend Development**, and **Problem Solving**  
+- 🧠 Currently learning: Advanced Python, SQL optimization, and API development  
+- ⚡ I love building projects that combine data and web technologies
+
+---
+
+### 🧰 Tech Stack  
+**Languages & Tools:**  
+`Python` • `.NET` • `Django` • `HTML` • `CSS` • `JavaScript` • `SQL` • `Power BI` • `Pandas` • `NumPy`  
+
+---
+
+### 📊 GitHub Stats  
+<div align="center">
+
+![Sayed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayed-Mohamed8114&show_icons=true&theme=tokyonight&rank_icon=github)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Mohamed8114&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies  
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sayed-Mohamed8114&theme=tokyonight&no-frame=true&margin-w=5)
+
+</div>
+
+---
+
+### 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sayed-mohamed8114)  
+- 🐍 [GitHub](https://github.com/Sayed-Mohamed8114)  
+- 📧 Email: sayed.mohamed@example.com *(replace with your real one)*  
+
+---
+
+### ⚙️ Fun Fact  
+> “Code, Analyze, and Automate — one project at a time.” 🚀
+
