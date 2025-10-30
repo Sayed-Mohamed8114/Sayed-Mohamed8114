@@ -41,9 +41,9 @@
 ---
 
 ### 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sayed-mohamed8114)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sayed-mohamed-xyz8112004/)  
 - 🐍 [GitHub](https://github.com/Sayed-Mohamed8114)  
-- 📧 Email: sayed.mohamed@example.com *(replace with your real one)*  
+- 📧 Email: *(sayed.mohamed8114@gmail.com)*  
 
 ---
 
