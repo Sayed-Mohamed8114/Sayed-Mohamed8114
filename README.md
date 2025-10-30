@@ -8,8 +8,8 @@
 
 ### 🚀 About Me  
 - 🌍 Based in Egypt  
-- 💡 I’m currently working with **.NET** and **Django**  
-- 📈 Passionate about **Data Analysis**, **Backend Development**, and **Problem Solving**  
+- 💡 I’m currently working with **.NET** , **Django**  ,**Flask**
+- 📈 Passionate about **Data Analysis**, **Backend Development**, **Frontend Development**, and **Problem Solving**  
 - 🧠 Currently learning: Advanced Python, SQL optimization, and API development  
 - ⚡ I love building projects that combine data and web technologies
 
