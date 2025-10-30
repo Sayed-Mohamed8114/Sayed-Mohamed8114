@@ -5,7 +5,7 @@
 </p>
  
 <div align="center">
-  <table>
+  <table style="border:none;">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Sayed-Mohamed8114&show_icons=true&theme=tokyonight&rank_icon=github" alt="Sayed's GitHub Stats" />
@@ -20,10 +20,8 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sayed-Mohamed8114&theme=tokyonight&no-frame=true&margin-w=5" alt="GitHub Trophies" />
 </div>
----
 
 ### 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sayed-mohamed-xyz8112004/)  
 - 📧 Email: *(sayed.mohamed8114@gmail.com)*  
----
 
