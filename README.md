@@ -5,7 +5,7 @@
 </p>
  
 <div align="center">
-  <table style="border:none;">
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Sayed-Mohamed8114&show_icons=true&theme=tokyonight&rank_icon=github" alt="Sayed's GitHub Stats" />
