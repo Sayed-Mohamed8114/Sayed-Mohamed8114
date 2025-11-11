@@ -21,7 +21,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Sayed-Mohamed8114&theme=tokyonight&no-frame=true&margin-w=5" alt="GitHub Trophies" />
 </div>
 
-<div align="left" style="margin-top: 20px; padding: 8px; margin-bottom:20px;">
+<div align="left" style="margin-top: 20px; padding: 8px; margin-bottom:20px; border-radius:25px;">
   <img src="https://komarev.com/ghpvc/?username=Sayed-Mohamed8114&label=👀%20Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views" width="220px" />
 </div>
 
