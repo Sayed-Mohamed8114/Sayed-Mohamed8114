@@ -3,7 +3,7 @@
 <p align="center">
   <b>💻 Web Developer | 📊 Data Analyst | 🎓 Computer Science Student</b>
 </p>
- 
+
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
@@ -21,7 +21,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Sayed-Mohamed8114&theme=tokyonight&no-frame=true&margin-w=5" alt="GitHub Trophies" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sayed-Mohamed8114&label=Profile%20Views&color=1a1b27&style=flat-square" alt="Profile Views" />
+</div>
+
+---
+
 ### 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sayed-mohamed-xyz8112004/)  
 - 📧 Email: *(sayed.mohamed8114@gmail.com)*  
-
