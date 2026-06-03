@@ -8,7 +8,7 @@ I enjoy creating scalable web apps, intelligent systems, and clean UI/UX experie
 
 ---
 
-## 🌐 Socials
+# 🌐 Socials
 <p align="start" style="display:flex gap:25px">
   <a href="https://instagram.com/xx_saayed_xx">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
