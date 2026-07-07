@@ -24,24 +24,6 @@
 
 ---
 
-<div align="center">
-
-<a href="https://linkedin.com/in/sayed-mohamed-xyz8112004">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sayed.mohamed8114@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Sayed-Mohamed8114">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 # About Me
 
 I'm **Sayed Mohamed**, a Computer Science student passionate about building high-quality software with a strong focus on **Software Engineering**, **Full Stack Web Development**, and **Artificial Intelligence**.
