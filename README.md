@@ -54,10 +54,6 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 
 - Full Stack Development (MERN)
 - Software Engineering
-- Artificial Intelligence
-- Machine Learning
-- Data Analysis
-- Backend Development
 - System Design
 
 ### Open To
