@@ -85,6 +85,7 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
 
 </p>
+
 ---
 
 #  Experience
