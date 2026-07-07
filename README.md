@@ -119,7 +119,7 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 </p>
 ---
 
-# 💼 Experience
+#  Experience
 
 ### Frontend Developer Trainee
 **Digital Egypt Pioneers Initiative (DEPI)** • *2026 – Present*
@@ -150,40 +150,19 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 
 ---
 
-# 🏆 Achievements
+#  Achievements
 
 <div align="center">
 
 | Achievement | Details |
 |-------------|---------|
-| 🎓 Computer Science Student | Pursuing a Bachelor's degree in Computer Science with a strong focus on Software Engineering. |
-| 💻 Full Stack Development | Built multiple web applications using the MERN Stack and modern frontend technologies. |
-| 🚀 Continuous Learning | Constantly exploring new technologies, frameworks, and software engineering best practices. |
+|  Computer Science Student | Pursuing a Bachelor's degree in Computer Science with a strong focus on Software Engineering. |
+|  Full Stack Development | Built multiple web applications using the MERN Stack and modern frontend technologies. |
+|  Continuous Learning | Constantly exploring new technologies, frameworks, and software engineering best practices. |
 
 </div>
 
 ---
-
-# 📜 Certifications
-
-> *(Update this section as you earn certifications.)*
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Currently-Learning-7C3AED?style=for-the-badge"/>
-
-</div>
-
-### Planned Certifications
-
-| Provider | Certification |
-|-----------|---------------|
-| Microsoft | Azure Fundamentals (AZ-900) |
-| AWS | Cloud Practitioner |
-| Oracle | Java Foundations |
-| Cisco | Introduction to Networks |
-| freeCodeCamp | Responsive Web Design |
-| Meta | Front-End Developer Professional Certificate |
 
 ---
 
@@ -213,8 +192,6 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 
 ---
 
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -237,17 +214,17 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 
 ---
 
-# 📌 GitHub Summary
+#  GitHub Summary
 
 <div align="center">
 
 | Profile Metrics | Status |
 |:----------------|:------:|
-| 💻 Primary Stack | MERN Stack |
-| 🧠 Languages | JavaScript • TypeScript • Python |
-| 🎯 Current Focus | Software Engineering & AI Integration |
-| 🤝 Open To | Internships • Junior Software Engineer Roles |
-| 📍 Based In | Egypt |
+|  Primary Stack | MERN Stack |
+|  Languages | JavaScript • TypeScript • Python |
+|  Current Focus | Software Engineering & AI Integration |
+|  Open To | Internships • Junior Software Engineer Roles |
+|  Based In | Egypt |
 
 </div>
 
@@ -289,7 +266,7 @@ Planning & Research
 
 ---
 
-# 🚀 Current Focus
+#  Current Focus
 
 ```yaml
 current_focus:
