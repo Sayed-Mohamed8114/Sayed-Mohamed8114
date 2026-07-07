@@ -1,74 +1,363 @@
-<h1 align="center">Hi, I'm Sayed Mohamed 👋</h1>
+<div align="center">
 
-# 💫 About Me
-Computer Science student passionate about **Web Development, AI, and Data Science**.  
-I specialize in building **MERN stack applications** and also work with **Machine Learning and Data Analysis tools**.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Sayed%20Mohamed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-I enjoy creating scalable web apps, intelligent systems, and clean UI/UX experiences.
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Full+Stack+Developer+(MERN);Software+Engineering;Building+Scalable+Modern+Web+Applications"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Faculty-Computers%20%26%20Information-7C3AED?style=flat-square&logo=readthedocs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Location-Egypt-6D28D9?style=flat-square&logo=googlemaps&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Junior%20Roles-8B5CF6?style=flat-square"/>
+
+</div>
 
 ---
 
-# 🌐 Socials
-<p align="start" style="display:flex gap:25px">
-  <a href="https://instagram.com/xx_saayed_xx">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/sayed-mohamed-xyz8112004">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sayed.mohamed8114@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
+<div align="center">
+
+<a href="https://linkedin.com/in/sayed-mohamed-xyz8112004">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sayed.mohamed8114@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sayed-Mohamed8114">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sayed-Mohamed8114&style=for-the-badge&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/followers/Sayed-Mohamed8114?style=for-the-badge&color=7C3AED&label=Followers"/>
+
+</div>
+
+---
+
+# About Me
+
+I'm **Sayed Mohamed**, a Computer Science student passionate about building high-quality software with a strong focus on **Software Engineering**, **Full Stack Web Development**, and **Artificial Intelligence**.
+
+My primary development stack is **MERN**, where I enjoy creating scalable web applications with clean architecture, reusable components, and responsive user interfaces.
+
+Alongside web development, I'm expanding my knowledge in Machine Learning, Data Analysis, and System Design to build intelligent, data-driven applications.
+
+### Current Interests
+
+- Full Stack Development (MERN)
+- Software Engineering
+- Artificial Intelligence
+- Machine Learning
+- Data Analysis
+- Backend Development
+- System Design
+
+### Open To
+
+- Software Engineering Internships
+- Frontend Development Roles
+- Full Stack Development Roles
+- Open Source Collaboration
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css"/>
+
 </p>
 
 ---
 
-# 💻 Tech Stack
+## Frontend
 
-## 🚀 MERN Stack (Main Focus)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F.svg?style=plastic&logo=node.js&logoColor=white)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap"/>
 
-## 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white)
+</p>
 
 ---
 
-## 🧠 AI & Data Science
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=plastic&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-%23000000.svg?style=plastic&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-%2300599C.svg?style=plastic&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+## Backend & Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres"/>
+
+</p>
 
 ---
 
-## 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+
+</p>
+---
+
+# 💼 Experience
+
+### Frontend Developer Trainee
+**Digital Egypt Pioneers Initiative (DEPI)** • *2026 – Present*
+
+- Developing modern web applications using **React.js**, **JavaScript**, and **Tailwind CSS**.
+- Building responsive and accessible user interfaces following modern development practices.
+- Collaborating within Agile teams while using Git and GitHub for version control.
+- Integrating frontend applications with REST APIs.
+- Improving application performance and maintainability through reusable components.
+
+**Skills**
+
+`React` `JavaScript` `Tailwind CSS` `Git` `GitHub` `REST APIs` `Responsive Design`
 
 ---
 
-# 📊 GitHub Stats
+### Computer Science Student
 
-![](https://github-readme-stats.vercel.app/api?username=Sayed-Mohamed8114&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+**Faculty of Computers & Information**
 
-![](https://streak-stats.demolab.com?user=Sayed-Mohamed8114&theme=tokyonight&hide_border=false)
+- Studying Software Engineering, Data Structures, Algorithms, Databases, Operating Systems, and Artificial Intelligence.
+- Building practical software projects alongside academic coursework.
+- Continuously improving problem-solving and software development skills.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Mohamed8114&theme=tokyonight&hide_border=false&layout=compact)
+**Core Subjects**
+
+`Data Structures` `Algorithms` `OOP` `Database Systems` `Computer Networks` `Operating Systems`
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Sayed-Mohamed8114&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🏆 Achievements
+
+<div align="center">
+
+| Achievement | Details |
+|-------------|---------|
+| 🎓 Computer Science Student | Pursuing a Bachelor's degree in Computer Science with a strong focus on Software Engineering. |
+| 💻 Full Stack Development | Built multiple web applications using the MERN Stack and modern frontend technologies. |
+| 🚀 Continuous Learning | Constantly exploring new technologies, frameworks, and software engineering best practices. |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+> *(Update this section as you earn certifications.)*
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Currently-Learning-7C3AED?style=for-the-badge"/>
+
+</div>
+
+### Planned Certifications
+
+| Provider | Certification |
+|-----------|---------------|
+| Microsoft | Azure Fundamentals (AZ-900) |
+| AWS | Cloud Practitioner |
+| Oracle | Java Foundations |
+| Cisco | Introduction to Networks |
+| freeCodeCamp | Responsive Web Design |
+| Meta | Front-End Developer Professional Certificate |
+
+---
+
+# 🌍 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+> Replace the links above with your actual profile URLs.
+
+---
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="700" src="https://streak-stats.demolab.com?user=Sayed-Mohamed8114&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+---
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sayed-Mohamed8114&theme=tokyo-night&hide_border=true&radius=12"/>
+
+</div>
+
+---
+
+# 📌 GitHub Summary
+
+<div align="center">
+
+| Profile Metrics | Status |
+|:----------------|:------:|
+| 💻 Primary Stack | MERN Stack |
+| 🧠 Languages | JavaScript • TypeScript • Python |
+| 🎯 Current Focus | Software Engineering & AI Integration |
+| 🤝 Open To | Internships • Junior Software Engineer Roles |
+| 📍 Based In | Egypt |
+
+</div>
+
+---
+
+# ⚡ Development Workflow
+
+<div align="center">
+
+```text
+      Idea
+       │
+       ▼
+Planning & Research
+       │
+       ▼
+ UI / UX Design
+       │
+       ▼
+ Frontend Development
+       │
+       ▼
+ Backend Development
+       │
+       ▼
+ API Integration
+       │
+       ▼
+ Testing & Debugging
+       │
+       ▼
+ Deployment
+       │
+       ▼
+ Continuous Improvement
+```
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+```yaml
+current_focus:
+
+  learning:
+    - Advanced React
+    - Node.js
+    - Express.js
+    - TypeScript
+    - Machine Learning
+    - System Design
+
+  building:
+    - Full Stack MERN Applications
+    - AI-powered Web Applications
+    - Modern Responsive User Interfaces
+
+  improving:
+    - Problem Solving
+    - Clean Architecture
+    - Backend Development
+    - REST API Design
+
+  exploring:
+    - Docker
+    - Cloud Computing
+    - DevOps
+    - Microservices
+
+  open_to:
+    - Software Engineering Internship
+    - Frontend Developer Internship
+    - Full Stack Developer Internship
+    - Open Source Collaboration
+```
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:sayed.mohamed8114@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/sayed-mohamed-xyz8112004">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sayed-Mohamed8114">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"First, solve the problem. Then, write clean, maintainable code."*
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+
+</div>
