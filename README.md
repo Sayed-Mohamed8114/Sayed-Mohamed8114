@@ -39,17 +39,6 @@
 </a>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sayed-Mohamed8114&style=for-the-badge&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/followers/Sayed-Mohamed8114?style=for-the-badge&color=7C3AED&label=Followers"/>
-
-</div>
-
 ---
 
 # About Me
