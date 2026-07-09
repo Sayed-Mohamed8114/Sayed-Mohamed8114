@@ -135,7 +135,7 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 
 ---
 
-# 🌍 Coding Profiles
+#  Coding Profiles
 
 <div align="center">
 
@@ -161,7 +161,7 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 <img width="700" src="https://streak-stats.demolab.com?user=Sayed-Mohamed8114&theme=tokyonight&hide_border=true&border_radius=12"/>
