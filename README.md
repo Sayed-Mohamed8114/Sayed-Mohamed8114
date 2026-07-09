@@ -164,14 +164,16 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 # 📊 GitHub Analytics
 
 <div align="center">
-
 <img width="700" src="https://streak-stats.demolab.com?user=Sayed-Mohamed8114&theme=tokyonight&hide_border=true&border_radius=12"/>
-
 </div>
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Sayed-Mohamed8114&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Sayed-Mohamed8114&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
 ---
+
 
 # Contribution Activity
 
