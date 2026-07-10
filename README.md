@@ -139,7 +139,7 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 
 <div align="center">
 
-<a href="https://leetcode.com/](https://leetcode.com/u/SaYeD_MoHamed_sAyEd">
+<a href="https://leetcode.com/u/SaYeD_MoHamed_sAyEd/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
