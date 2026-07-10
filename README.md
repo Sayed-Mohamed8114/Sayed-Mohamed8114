@@ -157,8 +157,6 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 
 </div>
 
-> Replace the links above with your actual profile URLs.
-
 ---
 
 # GitHub Analytics
