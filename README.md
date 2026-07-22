@@ -56,7 +56,7 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 
 </p>
 
----
+
 
 ## Frontend
 
@@ -66,7 +66,7 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 
 </p>
 
----
+
 
 ## Backend & Databases
 
@@ -76,7 +76,6 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 
 </p>
 
----
 
 ## Tools
 
@@ -86,7 +85,6 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 
 </p>
 
----
 
 #  Experience
 
