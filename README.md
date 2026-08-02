@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Full+Stack+Developer+(MERN);Software+Engineering;Building+Scalable+Modern+Web+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Full+Stack+Developer+(MERN);Full+Stack+Developer+(FARM-FARP);Software+Engineering;Building+Scalable+Modern+Web+Applications"/>
 
 </div>
 
