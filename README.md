@@ -33,7 +33,7 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 
 ### Current Interests
 
-- Full Stack Development (MERN)/(FARM)
+- Full Stack Development (MERN)/(FARM-FARP)
 - Software Engineering
 - System Design
 
