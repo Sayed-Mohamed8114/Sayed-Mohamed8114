@@ -71,7 +71,7 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,mysql,postgres"/>
 
 </p>
 
