@@ -223,6 +223,7 @@ current_focus:
 
   learning:
     - Advanced React
+    - FastAPI python
     - Node.js
     - Express.js
     - TypeScript
