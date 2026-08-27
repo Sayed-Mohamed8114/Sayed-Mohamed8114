@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Sayed%20Mohamed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
@@ -23,11 +23,11 @@
 </div>
 
 
-# About Me :
+# About Me:
 
 I'm **Sayed Mohamed**, a Computer Science student passionate about building high-quality software with a strong focus on **Software Engineering**, **Full Stack Web Development**, and **Artificial Intelligence**.
 
-My primary development stack is **MERN**, where I enjoy creating scalable web applications with clean architecture, reusable components, and responsive user interfaces.
+My primary development stacks are **MERN** and **FARM**, where I enjoy creating scalable web applications with clean architecture, reusable components, and responsive user interfaces.
 
 Alongside web development, I'm expanding my knowledge in Machine Learning, Data Analysis, and System Design to build intelligent, data-driven applications.
 
