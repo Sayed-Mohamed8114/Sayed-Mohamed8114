@@ -142,17 +142,6 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 
 </div>
 
----
-# Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sayed-Mohamed8114&theme=tokyo-night&hide_border=true&radius=12"/>
-
-</div>
-
----
-
 #  GitHub Summary
 
 <div align="center">
