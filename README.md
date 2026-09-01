@@ -88,7 +88,7 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 #  Experience
 
 ### Frontend Developer Trainee
-**Digital Egypt Pioneers Initiative (DEPI)** • *2026 – Present*
+**Digital Egypt Pioneers Initiative (DEPI)** • *2026 – gradute*
 
 - Developing modern web applications using **React.js**, **JavaScript**, and **Tailwind CSS**.
 - Building responsive and accessible user interfaces following modern development practices.
