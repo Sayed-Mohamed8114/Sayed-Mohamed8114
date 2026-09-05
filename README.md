@@ -23,7 +23,8 @@
 </div>
 
 
-# About Me
+# About Me:
+
 
 I'm **Sayed Mohamed**, a Computer Science student passionate about building high-quality software with a strong focus on **Software Engineering**, **Full Stack Web Development**, and **Artificial Intelligence**.
 
