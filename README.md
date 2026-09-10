@@ -85,6 +85,9 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 
 </p>
 
+## see my portfolio
+<a target="_blank" href="https://portfolio-v2-rho-red.vercel.app/">3d Portfolio </Aa>
+
 
 #  Experience
 
