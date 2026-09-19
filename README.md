@@ -28,7 +28,7 @@
 
 I'm **Sayed Mohamed**, a Computer Science student passionate about building high-quality software with a strong focus on **Software Engineering**, **Full Stack Web Development**, and **Artificial Intelligence**.
 
-My primary development stacks are **MERN** and **FARM**, where I enjoy creating scalable web applications with clean architecture, reusable components, and responsive user interfaces.
+My primary development stacks are **MERN** , **FARP** **FARM**, where I enjoy creating scalable web applications with clean architecture, reusable components, and responsive user interfaces.
 
 Alongside web development, I'm expanding my knowledge in Machine Learning, Data Analysis, and System Design to build intelligent, data-driven applications.
 
