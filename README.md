@@ -152,7 +152,7 @@ Alongside web development, I'm expanding my knowledge in Machine Learning, Data 
 
 | Profile Metrics | Status |
 |:----------------|:------:|
-|  Primary Stack | MERN Stack |
+|  Primary Stack | MERN Stack FARP stack |
 |  Languages | JavaScript • TypeScript • Python |
 |  Current Focus | Software Engineering & AI Integration |
 |  Open To | Internships • Junior Software Engineer Roles |
